@@ -307,6 +307,12 @@ section.experience {
     margin-bottom: 2rem;
 }
 
+.experience__description{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
 .experience__info-container{
     display: flex;
     flex-direction: column;
